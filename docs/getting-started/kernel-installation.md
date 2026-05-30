@@ -10,7 +10,7 @@ RAMOS kernel, build it, and install it inside the guest image.
 ## Get Source Code
 
 ```bash
-git clone git@github.com:ramryder-project/ramos.git
+git clone https://github.com/ramryder-project/ramos.git
 cd ramos
 ```
 

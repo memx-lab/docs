@@ -10,7 +10,7 @@ components, configure memory devices, and start the resource manager.
 ## Get Source Code
 
 ```bash
-git clone --recurse-submodules git@github.com:ramryder-project/ramryder.git
+git clone --recurse-submodules https://github.com/ramryder-project/ramryder.git
 ```
 
 ## Build Resource Manager
